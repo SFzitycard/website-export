@@ -1,0 +1,110 @@
+<t t-name="website.limpieza">
+  <t t-call="website.layout">
+    <div id="wrap" class="oe_structure oe_empty">
+      <section class="s_picture pt48 pb24 o_cc o_cc1 o_colored_level" data-oe-shape-data="{&quot;shape&quot;:&quot;web_editor/Rainy/06&quot;,&quot;flip&quot;:[&quot;x&quot;]}" data-snippet="s_picture" data-name="Picture" style="background-image: none;">
+        <div class="o_we_shape o_web_editor_Rainy_06 o_we_flip_x"/>
+        <div class="container">
+          <h2 style="text-align: center;">
+            <font style="font-size: 62px;" class="o_default_snippet_text">Un titulo llamativo</font>
+          </h2>
+          <p style="text-align: center;" class="o_default_snippet_text">Elija una imagen vibrante y escriba un párrafo inspirador al respecto. <br/>No tiene que ser largo, pero debe reforzar su imagen.</p>
+          <p style="text-align: center;">
+            <br/>
+          </p>
+          <div class="row s_nb_column_fixed">
+            <div class="col-lg-10 offset-lg-1 pb24 o_colored_level" style="text-align: center;">
+              <figure class="figure">
+                <img src="/web/image/website.s_picture_default_image" class="figure-img img-thumbnail padding-large" alt="" loading="lazy" data-original-id="444" data-original-src="/web/image/444-5234d380/website.s_picture_default_image" data-mimetype="image/jpeg"/>
+                <figcaption class="figure-caption text-muted py-3 o_default_snippet_text">Agregue un título para mejorar el significado de esta imagen.</figcaption>
+              </figure>
+            </div>
+          </div>
+        </div>
+      </section>
+      <section class="s_three_columns o_cc o_cc2 pt32 pb32 o_colored_level" data-vcss="001" data-snippet="s_three_columns" data-name="Columns" style="background-image: none;">
+        <div class="container">
+          <div class="row d-flex align-items-stretch">
+            <div class="col-lg-4 s_col_no_bgcolor pt16 pb16">
+              <div class="card text-bg-white h-100">
+                <img class="card-img-top" src="/web/image/website.s_three_columns_default_image_1" alt="" loading="lazy" data-original-id="447" data-original-src="/web/image/447-64e21256/website.s_three_columns_default_image_1" data-mimetype="image/jpeg"/>
+                <div class="card-body">
+                  <h3 class="card-title o_default_snippet_text">Característica uno</h3>
+                  <p class="card-text o_default_snippet_text">Adapte estas tres columnas para que se ajusten a sus necesidades de diseño Para duplicar, eliminar o mover columnas, seleccione la columna y use los iconos superiores para realizar su acción.</p>
+                </div>
+              </div>
+            </div>
+            <div class="col-lg-4 s_col_no_bgcolor pt16 pb16">
+              <div class="card text-bg-white h-100">
+                <img class="card-img-top" src="/web/image/website.s_three_columns_default_image_2" alt="" loading="lazy" data-original-id="448" data-original-src="/web/image/448-cfe8b150/website.s_three_columns_default_image_2" data-mimetype="image/jpeg"/>
+                <div class="card-body">
+                  <h3 class="card-title o_default_snippet_text">Característica dos</h3>
+                  <p class="card-text o_default_snippet_text">Para añadir una cuarta columna, reduzca el tamaño de estas tres columnas usando el icono adecuado de cada bloque. Entonces, duplique una de las columnas para crear una nueva como copia.</p>
+                </div>
+              </div>
+            </div>
+            <div class="col-lg-4 s_col_no_bgcolor pt16 pb16">
+              <div class="card text-bg-white h-100">
+                <img class="card-img-top" src="/web/image/website.s_three_columns_default_image_3" alt="" loading="lazy" data-original-id="449" data-original-src="/web/image/449-988f0cc9/website.s_three_columns_default_image_3" data-mimetype="image/jpeg"/>
+                <div class="card-body">
+                  <h3 class="card-title o_default_snippet_text">Característica tres</h3>
+                  <p class="card-text o_default_snippet_text">Eliminar la imagen anterior o reemplazarla por otra que ilustre su mensaje. Haga clic en la imagen para cambiar su <em class="o_default_snippet_text"> esquina redondeada</em>.</p>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+      <section class="s_showcase pt48 pb48 o_colored_level" data-vcss="002" data-snippet="s_showcase" data-name="Showcase" style="background-image: none;">
+        <div class="container">
+          <div class="row g-0 s_col_no_resize s_col_no_bgcolor s_nb_column_fixed">
+            <div class="col-lg text-lg-end">
+              <div class="row">
+                <div class="col-lg-12 pt24 pb24 o_colored_level" data-name="Block">
+                  <div class="s_showcase_title d-flex flex-lg-row-reverse mb-2">
+                    <i class="s_showcase_icon fa fa-2x fa-desktop text-secondary me-3 me-lg-0 ms-lg-3"/>
+                    <h3 class="o_default_snippet_text">Primera característica</h3>
+                  </div>
+                  <p class="o_default_snippet_text">Una breve descripción de esta gran característica.</p>
+                </div>
+                <div class="col-lg-12 pt24 pb24 o_colored_level" data-name="Block">
+                  <div class="s_showcase_title d-flex flex-lg-row-reverse mb-2">
+                    <i class="s_showcase_icon fa fa-2x fa-paint-brush text-secondary me-3 me-lg-0 ms-lg-3"/>
+                    <h3 class="o_default_snippet_text">Segunda característica</h3>
+                  </div>
+                  <p class="o_default_snippet_text">Una breve descripción de esta gran característica.</p>
+                </div>
+              </div>
+            </div>
+            <div class="col-1">
+              <div class="w-50 h-100 border-end"/>
+            </div>
+            <div class="col-lg">
+              <div class="row">
+                <div class="col-lg-12 pt24 pb24 o_colored_level" data-name="Block">
+                  <div class="s_showcase_title d-flex mb-2">
+                    <i class="s_showcase_icon fa fa-2x fa-heart text-secondary me-3"/>
+                    <h3 class="o_default_snippet_text">Otra característica</h3>
+                  </div>
+                  <p class="o_default_snippet_text">Una breve descripción de esta gran característica.</p>
+                </div>
+                <div class="col-lg-12 pt24 pb24 o_colored_level" data-name="Block">
+                  <div class="s_showcase_title d-flex mb-2">
+                    <i class="s_showcase_icon fa fa-2x fa-gift text-secondary me-3"/>
+                    <h3 class="o_default_snippet_text">Última característica</h3>
+                  </div>
+                  <p class="o_default_snippet_text">Una breve descripción de esta gran característica.</p>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="container text-lg-center">
+          <p>
+            <br/>
+          </p>
+          <a href="#" class="btn btn-primary mb-2 o_default_snippet_text">Descubre todas las características</a>
+        </div>
+      </section>
+    </div>
+  </t>
+</t>

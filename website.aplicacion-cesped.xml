@@ -1,0 +1,82 @@
+<t t-name="website.aplicacion-cesped">
+  <t t-call="website.layout">
+    <div id="wrap" class="oe_structure oe_empty">
+      <section class="s_three_columns o_cc o_cc2 pt32 pb32 o_colored_level" data-vcss="001" data-snippet="s_three_columns" data-name="Columns" style="background-image: none;">
+        <div class="container">
+          <div class="row d-flex align-items-stretch">
+            <div class="col-lg-4 s_col_no_bgcolor pt16 pb16">
+              <div class="card text-bg-white h-100">
+                <img class="card-img-top" src="/web/image/website.s_three_columns_default_image_1" alt="" loading="lazy" data-original-id="447" data-original-src="/web/image/447-64e21256/website.s_three_columns_default_image_1" data-mimetype="image/jpeg"/>
+                <div class="card-body">
+                  <h3 class="card-title o_default_snippet_text">Característica uno</h3>
+                  <p class="card-text o_default_snippet_text">Adapte estas tres columnas para que se ajusten a sus necesidades de diseño Para duplicar, eliminar o mover columnas, seleccione la columna y use los iconos superiores para realizar su acción.</p>
+                </div>
+              </div>
+            </div>
+            <div class="col-lg-4 s_col_no_bgcolor pt16 pb16">
+              <div class="card text-bg-white h-100">
+                <img class="card-img-top" src="/web/image/website.s_three_columns_default_image_2" alt="" loading="lazy" data-original-id="448" data-original-src="/web/image/448-cfe8b150/website.s_three_columns_default_image_2" data-mimetype="image/jpeg"/>
+                <div class="card-body">
+                  <h3 class="card-title o_default_snippet_text">Característica dos</h3>
+                  <p class="card-text o_default_snippet_text">Para añadir una cuarta columna, reduzca el tamaño de estas tres columnas usando el icono adecuado de cada bloque. Entonces, duplique una de las columnas para crear una nueva como copia.</p>
+                </div>
+              </div>
+            </div>
+            <div class="col-lg-4 s_col_no_bgcolor pt16 pb16">
+              <div class="card text-bg-white h-100">
+                <img class="card-img-top" src="/web/image/website.s_three_columns_default_image_3" alt="" loading="lazy" data-original-id="449" data-original-src="/web/image/449-988f0cc9/website.s_three_columns_default_image_3" data-mimetype="image/jpeg"/>
+                <div class="card-body">
+                  <h3 class="card-title o_default_snippet_text">Característica tres</h3>
+                  <p class="card-text o_default_snippet_text">Eliminar la imagen anterior o reemplazarla por otra que ilustre su mensaje. Haga clic en la imagen para cambiar su <em class="o_default_snippet_text"> esquina redondeada</em>.</p>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+      <section class="s_masonry_block o_colored_level" data-vcss="001" data-vxml="001" data-snippet="s_masonry_block" data-name="Masonry" style="background-image: none;">
+        <div class="container-fluid">
+          <div class="row o_grid_mode" data-row-count="10">
+            <div class="o_grid_item col-lg-6 g-col-lg-6 g-height-10 o_grid_item_image text-center o_colored_level" data-name="Block" style="grid-area: 1 / 1 / 11 / 7; z-index: 1; background-image: none;">
+              <img src="/web/image/website.s_masonry_block_default_image_1" class="img img-fluid mx-auto" alt="" loading="lazy" data-original-id="426" data-original-src="/web/image/426-c6c8cc12/website.s_masonry_block_default_image_1" data-mimetype="image/jpeg"/>
+            </div>
+            <div class="o_grid_item col-lg-3 g-col-lg-3 g-height-5 text-center o_cc o_cc2 o_colored_level" data-name="Block" style="grid-area: 1 / 7 / 6 / 10; z-index: 2; background-image: none;">
+              <h3 class="o_default_snippet_text">Un gran título</h3>
+              <p class="o_default_snippet_text">Y un gran subtítulo</p>
+            </div>
+            <div class="o_grid_item col-lg-3 g-col-lg-3 g-height-5 text-center o_cc o_cc3 o_colored_level" data-name="Block" style="grid-area: 1 / 10 / 6 / 13; z-index: 3; background-image: none;">
+              <h3 class="o_default_snippet_text">Un gran título</h3>
+              <p class="o_default_snippet_text">Y un gran subtítulo</p>
+            </div>
+            <div class="o_grid_item col-lg-3 g-col-lg-3 g-height-5 text-center o_cc o_cc4 o_colored_level" data-name="Block" style="grid-area: 6 / 7 / 11 / 10; z-index: 4; background-image: none;">
+              <h3 class="o_default_snippet_text">Un gran título</h3>
+              <p class="o_default_snippet_text">Y un gran subtítulo</p>
+            </div>
+            <div class="o_grid_item col-lg-3 g-col-lg-3 g-height-5 text-center o_cc o_cc2 o_colored_level" data-name="Block" style="grid-area: 6 / 10 / 11 / 13; z-index: 5; background-image: none;">
+              <h3 class="o_default_snippet_text">Un gran título</h3>
+              <p class="o_default_snippet_text">Y un gran subtítulo</p>
+            </div>
+          </div>
+        </div>
+      </section>
+      <section class="s_image_gallery o_spc-small o_masonry pt24 pb24 o_colored_level" data-vcss="001" data-columns="3" style="overflow: hidden; background-image: none;" data-snippet="s_images_wall" data-name="Images Wall">
+        <div class="container">
+          <div class="row s_nb_column_fixed">
+            <div class="o_masonry_col o_snippet_not_selectable col-lg-4">
+              <img class="img img-fluid d-block" src="/web/image/website.library_image_03" data-index="0" data-name="Image" loading="lazy" data-original-id="451" data-original-src="/web/image/451-c4b4ad08/website.library_image_03" data-mimetype="image/jpeg"/>
+              <img class="img img-fluid d-block" src="/web/image/website.library_image_10" data-index="3" data-name="Image" loading="lazy" data-original-id="452" data-original-src="/web/image/452-3d655637/website.library_image_10" data-mimetype="image/jpeg"/>
+            </div>
+            <div class="o_masonry_col o_snippet_not_selectable col-lg-4">
+              <img class="img img-fluid d-block" src="/web/image/website.library_image_13" data-index="1" data-name="Image" loading="lazy" data-original-id="453" data-original-src="/web/image/453-9b88d116/website.library_image_13" data-mimetype="image/jpeg"/>
+              <img class="img img-fluid d-block" src="/web/image/website.library_image_05" data-index="4" data-name="Image" loading="lazy" data-original-id="454" data-original-src="/web/image/454-8ec6d271/website.library_image_05" data-mimetype="image/jpeg"/>
+            </div>
+            <div class="o_masonry_col o_snippet_not_selectable col-lg-4">
+              <img class="img img-fluid d-block" src="/web/image/website.library_image_14" data-index="2" data-name="Image" loading="lazy" data-original-id="455" data-original-src="/web/image/455-0df02f96/website.library_image_14" data-mimetype="image/jpeg"/>
+              <img class="img img-fluid d-block" src="/web/image/website.library_image_16" data-index="5" data-name="Image" loading="lazy" data-original-id="456" data-original-src="/web/image/456-8dad89dc/website.library_image_16" data-mimetype="image/jpeg"/>
+            </div>
+          </div>
+        </div>
+      </section>
+    </div>
+  </t>
+</t>
